@@ -3,7 +3,7 @@
 <br/>
 
 ## Introduction
-<p><b>meditateOS</b> is a family of Scratch operating systems ("bootable OS" programmed with Scratch) developed by Lega Enterprise (aka <a href="//scratch.mit.edu/users/xvEgeo/">just me</a>). It was made with the intention to bring out calmness and release stress from the user. MeditateOS currently has 3 operating systems, with the latest being MeditateOS 3.0 and the latest beta version being meditateOS 4.</p>
+<p><b>meditateOS</b> is a family of Scratch operating systems ("bootable OS" programmed with Scratch) developed by Lega Enterprise (aka <a href="//scratch.mit.edu/users/xvEgeo/">just me</a>). It was made with the intention to bring out calmness and release stress from the user. meditateOS currently has 3 operating systems, with the latest being MeditateOS 3.0 and the latest beta version being meditateOS 4.</p>
 
 ## Versions
 <ul>
