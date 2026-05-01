@@ -10,7 +10,7 @@
   <li>MeditateOS 1.0
     <ul>
       <li>No Media Edition (or European Edition)</li>
-      <li>Root (no bloatware, just the Trash app</li>
+      <li>Root (no bloatware, just the Trash app) </li>
       <li>Azhel Sharp (by <a href="https://scratch.mit.edu/users/DaRender/">DaRender</a>)</li>
       <li>Azhel Sharp Fix 1 (by me)</li>
     </ul>
