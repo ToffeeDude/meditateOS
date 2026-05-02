@@ -25,14 +25,14 @@
       <li>Beta 4 (build 2996)</li>
       <li>General release (build 3000)</li>
       <li>Fix 1 (build 3001)</li>
-      <li>Fix 2 (build 3002)</li>
+      <li>Fix 2 (build 3002) (not found in the version 3.0 folder)</li>
     </ul>
   </li>
-  <li>meditateOS 4 (in beta)
+  <li>meditateOS 4 (work in progress)
     <ul>
       <li>Loturess build 3601</li>
       <li>Build 3721</li>
-      <li>Build 3756</li>
+      <li>Build 3756 (not found in the version 4 folder)</li>
     </ul>
   </li>
 </ul>
@@ -43,4 +43,8 @@
   meditateos-[ ver num (#.#) / codename ]-b[ build num ]-[ edition ]
 </pre>
 <p>Therefore, <code>meditateos-3.0-b3002-gen</code> is the general release version of MeditateOS 3.0 fix 2.</p>
-<p>Usually, builds which are more than <code>b#000</code> (such as <code>b3001</code>) means that there are numbered fixes (such as 3.0 fix 1) in the build.</p>
+<p>Usually, builds which are more than <code>b#000</code> (such as <code>b3001</code>) means that there are numbered fixes (such as fix 1) in the build.</p>
+
+## Installation
+<p>To install meditateOS, one must have Scratch 3.0 installed on their computer by downloading it from <a href="https://scratch.mit.edu/download">the official Scratch website</a>. After that, they can pick from any of the four versions of the Scratch OS, and its beta and release versions.</p> 
+<p>There are links in the README.md files of the version folders that lead to their pages in the Scratch website.</p>
