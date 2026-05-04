@@ -25,14 +25,15 @@
       <li>Beta 4 (build 2996)</li>
       <li>General release (build 3000)</li>
       <li>Fix 1 (build 3001)</li>
-      <li>Fix 2 (build 3002) (not found in the version 3.0 folder)</li>
+      <li>Fix 2 (build 3002) (not uploaded in the version 3.0 folder)</li>
     </ul>
   </li>
   <li>meditateOS 4 (work in progress)
     <ul>
       <li>Loturess build 3601</li>
       <li>Build 3721</li>
-      <li>Build 3756 (not found in the version 4 folder)</li>
+      <li>Build 3771</li>
+      <li>Build 3778</li>
     </ul>
   </li>
 </ul>
